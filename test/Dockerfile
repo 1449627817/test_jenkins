@@ -1,3 +1,3 @@
-FROM 10.131.178.152:80/repos/tomcat:v1
+FROM tomcat:v1
 
 MAINTAINER QQQQQQ

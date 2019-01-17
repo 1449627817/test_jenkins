@@ -1,3 +1,3 @@
-FROM tomcat
+FROM tomcat:v1
 
 MAINTAINER QQQQQQ
